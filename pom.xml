@@ -6,8 +6,8 @@
 	<name>hw0</name>
 	<description>home work 0 for SW</description>
 	<scm>
-		<connection>scm:git:git@github.com:abhimanu/hw0-abhimank.git</connection>
-		<developerConnection>scm:git:git@github.com:abhimanu/hw0-abhimank.git</developerConnection>
+		<connection>scm:git:https://github.com/abhimanu/hw0-abhimank.git</connection>
+		<developerConnection>scm:git:https://github.com/abhimanu/hw0-abhimank.gitt</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
