@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f13.hw0</groupId>
 	<artifactId>hw0-abhimank</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>hw0</name>
 	<description>home work 0 for SW</description>
 	<scm>
